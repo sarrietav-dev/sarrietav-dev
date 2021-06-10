@@ -1,4 +1,15 @@
-### Hi there 👋
+### Sup, visitor! 👋
+
+My name is Sebastian Arrieta, I'm 19 and everyday I'm studying to be an awesome developer!
+
+#### About me:
+- I like to play guitar.
+- I'm an amateur photographer.
+- I'm highly interested in technology.
+
+#### Tehnologies:
+- React
+- Flutter
 
 <!--
 **sarrietav-dev/sarrietav-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
