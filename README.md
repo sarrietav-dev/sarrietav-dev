@@ -9,6 +9,7 @@ My name is Sebastian Arrieta, I'm 19 and everyday I'm studying to be an awesome 
 
 #### Tehnologies:
 - React
+- Vue
 - Flutter
 
 <!--
