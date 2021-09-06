@@ -1,6 +1,6 @@
 ### Sup, visitor! 👋
 
-My name is Sebastian Arrieta, I'm 19 years old and everyday I'm studying to become an awesome developer!
+My name is Sebastian Arrieta, I'm 19 years old and I'm studying everyday to become an awesome developer!
 
 #### About me:
 - I like to play guitar.
