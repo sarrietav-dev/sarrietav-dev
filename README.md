@@ -1,11 +1,11 @@
 ### Sup, visitor! 👋
 
-My name is Sebastian Arrieta, I'm 19 years old and I'm studying everyday to become an awesome developer!
+My name is Sebastian Arrieta, I'm `${currentYear - 2002}` years old and I'm studying everyday to become an top-notch engineer!
 
 #### About me:
-- I like to play guitar.
-- I'm an amateur photographer.
-- I'm highly interested in technology.
+- I like to play guitar. 🎸
+- I'm an amateur photographer. 📷
+- I'm highly interested in technology and ddeveloping quality software. 👨‍💻
 
 #### Tehnologies:
 - React
