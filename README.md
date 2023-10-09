@@ -11,11 +11,11 @@ My name is Sebastian Arrieta, I'm `${currentYear - 2002}` years old and I'm stud
 - Frontend Frameworks: Angular, React, Vue.
 - Backend technologies: .NET, Spring Boot, Go, Node.js
 
-### Currently working on:
+#### Currently working on:
 - A shopping list manager made with Angular and ASP.NET.
 - Getting ready for technical interviews!
 
-### Currently learning:
+#### Currently learning:
 - Domain-Driven Design
 - NextJS
 
