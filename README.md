@@ -17,7 +17,6 @@ My name is Sebastian Arrieta, I'm `${currentYear - 2002}` years old and I'm stud
 
 #### Currently learning:
 - Domain-Driven Design
-- NextJS
 
 <!--
 **sarrietav-dev/sarrietav-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
