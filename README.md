@@ -5,7 +5,7 @@ keeping my eyes on: laravel
 
 goals:
 - create a (useful) library
-- write about something in [my blog](https://sarrietav.dev/posts)
+- write about something in [my blog](https://sarrietav.dev)
 
 
 
