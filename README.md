@@ -1,7 +1,7 @@
 welcome to my workshop. here, I build and test ideas just for fun.
 watch your feet, you might trip over something.
 
-keeping my eyes on: laravel
+keeping my eyes on: rails
 
 goals:
 - create a (useful) library
