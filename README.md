@@ -1,5 +1,4 @@
-welcome to my workshop. here, I build and test ideas just for fun.
-watch your feet, you might trip over something.
+moved to https://git.sarrietav.dev
 
 keeping my eyes on: rails
 
