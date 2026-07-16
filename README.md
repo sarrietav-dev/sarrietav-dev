@@ -1,6 +1,4 @@
-moved to https://git.sarrietav.dev
-
-keeping my eyes on: rails
+keeping my eyes on: agents
 
 goals:
 - create a (useful) library
